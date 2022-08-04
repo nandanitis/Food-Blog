@@ -6,7 +6,7 @@ import useFetch from "../useFetch";
 
 export default function Posts() {
 
-  const { data:blogs, isPedning} = useFetch('https://nandanitis.github.io/jsonapi/db.json');
+  const { data:blogs, isPedning} = useFetch('https://nandanitis.github.io/jasonapii/dbs.json');
 
 
   return (

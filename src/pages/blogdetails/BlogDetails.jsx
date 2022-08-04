@@ -8,7 +8,7 @@ import Iframe from 'react-iframe'
 export default function BlogDetails() {
   const { id } = useParams();
   const { data: blog, isPending } = useFetch(
-    "https://nandanitis.github.io/jsonapi/db.json" 
+    "https://nandanitis.github.io/jasonapii/dbs.json" 
   );
   
   return (
