@@ -1,0 +1,44 @@
+.posts{
+    flex: 9;
+    margin: 20px;
+    padding: 10px;
+    background-color: #fafafa;
+}
+
+.posttitle {
+    font-family: "Josefin Sans", Arial, Helvetica, sans-serif;
+    font-size: 34px;
+    font-weight: 900;
+    margin-top: 15px;
+   
+  }
+  
+  .postDate {
+    font-family: "Lora", serif;
+    font-style: italic;
+    font-size: 13px;
+    font-weight: 400;
+    color: #999999;
+    margin-top: 15px;
+  }
+  
+
+.postdesc{
+    background-color: rgb(255, 255, 255);
+    padding: 35px;
+    /* font-family: "Roboto", sans-serif; */
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+    font-size: 21px;
+    text-align: left;
+    font-family: "Varela Round", Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+
+.postdesc::first-letter {
+  margin-left: 20px;
+  font-size: 30px;
+  font-weight: 600;
+}
+
+
