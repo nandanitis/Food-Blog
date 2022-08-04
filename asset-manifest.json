@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Food-Blog/static/css/main.1ee8a8ad.css",
+    "main.js": "/Food-Blog/static/js/main.1c8c7432.js",
+    "index.html": "/Food-Blog/index.html",
+    "main.1ee8a8ad.css.map": "/Food-Blog/static/css/main.1ee8a8ad.css.map",
+    "main.1c8c7432.js.map": "/Food-Blog/static/js/main.1c8c7432.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ee8a8ad.css",
+    "static/js/main.1c8c7432.js"
+  ]
+}
